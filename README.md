@@ -1,2 +1,3 @@
-# gs-rest-service
+# Java backend example
+port = 8090
 
